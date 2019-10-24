@@ -14,7 +14,7 @@
     } 
 }
 ```
-3. Get consumer and access keys from Team Leads and populate inside the `./config.json` file.
+3. Get consumer and access keys from a Team Lead and populate inside `./config.json`.
 4. Run `node app.js`
 5. Validate Twitter post on https://twitter.com/opentransit_bot
 
