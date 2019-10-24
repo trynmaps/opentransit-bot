@@ -1,0 +1,14 @@
+{
+  "name": "opentransit-metrics-twitter-bot",
+  "version": "1.0.0",
+  "description": "Posts to twitter automatically information from the metrics application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
