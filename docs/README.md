@@ -19,6 +19,4 @@
 5. Validate Twitter post on https://twitter.com/opentransit_bot
 
 ## Need To Do
-1. GraphQL dynamic data pull
-2. JS based cron library to automate posts
-3. GCP setup for prod use
+1. GCP setup for prod use

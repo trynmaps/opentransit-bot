@@ -1,7 +1,7 @@
 {
-  "name": "opentransit-metrics-twitter-bot",
+  "name": "opentransit-twitter-bot",
   "version": "1.0.0",
-  "description": "Posts to twitter automatically information from the metrics application",
+  "description": "Posts to twitter automatically information gathered from metrics application",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,10 +9,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "apollo-fetch": "^0.7.0",
-    "axios": "^0.19.1",
+    "firebase-functions": "^3.3.0",
+    "graphql-request": "^1.8.2",
     "moment": "^2.24.0",
-    "node-cron": "^2.0.3",
     "twitter": "^1.7.1"
   }
 }
